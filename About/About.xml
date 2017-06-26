@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>A Dog Said...</name>
+	<name>A Dog Said...Lite</name>
 	<author>spoonshortage</author>
 	<url>https://ludeon.com/forums/index.php?topic=24578.0</url>
-	<targetVersion>0.17.1557</targetVersion>
+	<targetVersion>0.17.1567</targetVersion>
 	<description>
 Adds prosthetics/bionics and surgeries for animals
 
@@ -11,28 +11,18 @@ Following parts are added to the game:
 
 A Dog Said Research Tab: Simple Animal Prosthetics, Animal Bionics, Animal Healing
 
-* animal brain stimulator. Fits all animals.
-* bionic animal eyes. Fits all animals. 
-* bionic animal heart. Fits all animals.
-* bionic animal lung. Fits all animals.
-* bionic animal kidney. Fits all animals.
-* bionic animal liver. Fits all animals.
-* bionic animal stomach. Fits all animals.
-* simple/bionic animal ears. Fits all animals except those without ears (birds,insects,snakes).
-* simple/bionic animal jaw. Fits all animals. 
-* simple/bionic animal spine. Fits all animals.
+
 * simple/bionic animal arms. Fits monkey and megatherium.
 * peglegs. Can be crafted with 1 wood. Fits all animals. Least efficiency.
 * simple/bionic animal legs. Fits all animals.
 * simple prosthetic tail. Fits all animals with tails.
-* simple prosthetic nose. Fits all animals with nose (not birds,insects)
+
 
 All parts can be obtained from traders, except peglegs.
 All parts can be crafted at the animal prosthetics bench, after research of electricity and simple animal prosthetics
 Crafting requires a skill of 5-12, depending on part.
 
 Simple parts are slightly lower in efficiency than natural parts. Bionic parts are higher.
-
 
 All parts need medicine skill and 1 medicine to be installed. 
 Simple parts need a skill from 4-6. Bionic parts need a skill form 8-10.
