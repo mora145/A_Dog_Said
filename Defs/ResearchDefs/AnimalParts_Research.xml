@@ -16,6 +16,9 @@
 		<techLevel>Neolithic</techLevel>
 		<researchViewX>1</researchViewX>
 		<researchViewY>2</researchViewY>
+		<prerequisites>
+			<li>Electricity</li>
+		</prerequisites>
 		<tab>ADogSaid</tab>
 	</ResearchProjectDef>
 
@@ -29,6 +32,11 @@
 		<techLevel>Industrial</techLevel>
 		<researchViewX>1</researchViewX>
 		<researchViewY>3</researchViewY>
+		<prerequisites>
+			<li>MicroelectronicsBasics</li>
+			<li>SimpleAnimalProsthetics</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
 		<tab>ADogSaid</tab>
 	</ResearchProjectDef>
 
@@ -42,6 +50,11 @@
 		<techLevel>Industrial</techLevel>
 		<researchViewX>1</researchViewX>
 		<researchViewY>4</researchViewY>
+		<prerequisites>
+			<li>MicroelectronicsBasics</li>
+			<li>SimpleAnimalProsthetics</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
 		<tab>ADogSaid</tab>
 	</ResearchProjectDef>
 
