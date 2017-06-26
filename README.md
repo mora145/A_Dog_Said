@@ -7,7 +7,7 @@ Adds prosthetics/bionics and surgeries for animals
 
 Following parts are added to the game:
 
-A Dog Said Research Tab: Simple Animal Prosthetics, Animal Bionics, Animal Healing
+A Dog Said Research Tab: Animal Healing
 
 * animal brain stimulator. Fits all animals.
 * bionic animal eyes. Fits all animals. 
@@ -26,8 +26,6 @@ A Dog Said Research Tab: Simple Animal Prosthetics, Animal Bionics, Animal Heali
 * simple prosthetic nose. Fits all animals with nose (not birds,insects)
 
 All parts can be obtained from traders, except peglegs.
-All parts can be crafted at the animal prosthetics bench, after research of electricity and simple animal prosthetics
-Crafting requires a skill of 5-12, depending on part.
 
 Simple parts are slightly lower in efficiency than natural parts. Bionic parts are higher.
 

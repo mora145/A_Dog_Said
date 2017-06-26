@@ -6,32 +6,6 @@
 		<label>A Dog Said</label>
 	</ResearchTabDef>
 
-	<!-- Simple Animal Prosthetics -->
-
-	<ResearchProjectDef>
-		<defName>SimpleAnimalProsthetics</defName>
-		<label>Simple Animal Prosthetics</label>
-		<description>Learn to use and craft simple animal prosthetics</description>
-		<baseCost>500</baseCost>
-		<techLevel>Neolithic</techLevel>
-		<researchViewX>1</researchViewX>
-		<researchViewY>2</researchViewY>
-		<tab>A Dog Said</tab>
-	</ResearchProjectDef>
-
-	<!-- Animal Bionics -->
-
-	<ResearchProjectDef>
-		<defName>AnimalBionics</defName>
-		<label>Animal Bionics</label>
-		<description>Learn to use and craft animal bionics</description>
-		<baseCost>700</baseCost>
-		<techLevel>Industrial</techLevel>
-		<researchViewX>1</researchViewX>
-		<researchViewY>3</researchViewY>
-		<tab>A Dog Said</tab>
-	</ResearchProjectDef>
-
 	<!-- Animal Heal -->
 
 	<ResearchProjectDef>
