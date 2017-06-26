@@ -16,7 +16,7 @@
 		<techLevel>Neolithic</techLevel>
 		<researchViewX>1</researchViewX>
 		<researchViewY>2</researchViewY>
-		<tab>A Dog Said</tab>
+		<tab>ADogSaid</tab>
 	</ResearchProjectDef>
 
 	<!-- Animal Bionics -->
@@ -29,7 +29,7 @@
 		<techLevel>Industrial</techLevel>
 		<researchViewX>1</researchViewX>
 		<researchViewY>3</researchViewY>
-		<tab>A Dog Said</tab>
+		<tab>ADogSaid</tab>
 	</ResearchProjectDef>
 
 	<!-- Animal Heal -->
@@ -42,7 +42,7 @@
 		<techLevel>Industrial</techLevel>
 		<researchViewX>1</researchViewX>
 		<researchViewY>4</researchViewY>
-		<tab>A Dog Said</tab>
+		<tab>ADogSaid</tab>
 	</ResearchProjectDef>
 
 
