@@ -13,7 +13,7 @@
 		<label>Simple Animal Prosthetics</label>
 		<description>Learn to use and craft simple animal prosthetics</description>
 		<baseCost>500</baseCost>
-		<techLevel>Neolithic</techLevel>
+		<techLevel>Industrial</techLevel>
 		<researchViewX>1</researchViewX>
 		<researchViewY>2</researchViewY>
 		<prerequisites>
