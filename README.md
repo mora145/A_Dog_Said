@@ -27,6 +27,5 @@ Simple parts need a skill from 4-6. Bionic parts need a skill form 8-10.
 
 Animal Healing of old wounds requires research, min med skill of 10 and 3 normal medicine. (make sure animals are set to receive it)
 
-DMG on bionic parts is non variable from animal to animal. A fully bionic Yorkie will do the same damage as a fully bionic Thrumbo.
-So make sure to not replace parts unneccissarily on higher damage animals.
+DMG on bionic parts is non variable from animal to animal. A bionic leg on a Yorkie for example will do the same damage as a bionic leg on a bigger animal.
 
