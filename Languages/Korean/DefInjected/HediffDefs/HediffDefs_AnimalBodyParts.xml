@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <ProstheticTail.label>꼬리 보철물</ProstheticTail.label>
+
+    <SimpleProstheticLegAnimal.label>간단한 의족</SimpleProstheticLegAnimal.label>
+
+    <BionicLegAnimal.label>생체공학 다리</BionicLegAnimal.label>
+
+    <SimpleProstheticArmAnimal.label>간단한 의수</SimpleProstheticArmAnimal.label>
+
+    <BionicArmAnimal.label>생체공학 팔</BionicArmAnimal.label>
+
+    <NoseAnimalSimple.label>코 보철물</NoseAnimalSimple.label>
+
+    <BionicEyeAnimal.label>생체공학 눈</BionicEyeAnimal.label>
+
+    <EarAnimalSimple.label>귀 보철물</EarAnimalSimple.label>
+
+    <EarAnimalBionic.label>생체공학 귀</EarAnimalBionic.label>
+
+    <JawAnimalSimple.label>턱 보철물</JawAnimalSimple.label>
+
+    <JawAnimalBionic.label>생체공학 턱</JawAnimalBionic.label>
+
+    <SpineAnimalSimple.label>척추 보철물</SpineAnimalSimple.label>
+
+    <SpineAnimalBionic.label>생체공학 척추</SpineAnimalBionic.label>
+
+    <AnimalBrainStimulator.label>인공지능 칩</AnimalBrainStimulator.label>
+
+    <BionicAnimalHeart.label>인공 심장</BionicAnimalHeart.label>
+
+    <BionicAnimalLung.label>인공 폐</BionicAnimalLung.label>
+
+    <BionicAnimalLiver.label>인공 간</BionicAnimalLiver.label>
+
+    <BionicAnimalKidney.label>인공 신장</BionicAnimalKidney.label>
+
+    <BionicAnimalStomach.label>인공 위</BionicAnimalStomach.label>
+
+</LanguageData>

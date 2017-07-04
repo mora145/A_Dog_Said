@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <CureInjuryBurnAnimal.label>cure burn</CureInjuryBurnAnimal.label>
+    <CureInjuryBurnAnimal.description>Cure burn.</CureInjuryBurnAnimal.description>
+    <CureInjuryBurnAnimal.jobString>Curing burn.</CureInjuryBurnAnimal.jobString>
+
+    <CureInjuryCrushAnimal.label>cure crush</CureInjuryCrushAnimal.label>
+    <CureInjuryCrushAnimal.description>Cure crush.</CureInjuryCrushAnimal.description>
+    <CureInjuryCrushAnimal.jobString>Curing crush.</CureInjuryCrushAnimal.jobString>
+
+    <CureInjuryCrackAnimal.label>cure crack</CureInjuryCrackAnimal.label>
+    <CureInjuryCrackAnimal.description>Cure crack.</CureInjuryCrackAnimal.description>
+    <CureInjuryCrackAnimal.jobString>Curing crack.</CureInjuryCrackAnimal.jobString>
+
+    <CureInjuryCutAnimal.label>cure cut</CureInjuryCutAnimal.label>
+    <CureInjuryCutAnimal.description>Cure cut.</CureInjuryCutAnimal.description>
+    <CureInjuryCutAnimal.jobString>Curing cut.</CureInjuryCutAnimal.jobString>
+
+    <CureInjurySurgicalCutAnimal.label>cure surgical cut</CureInjurySurgicalCutAnimal.label>
+    <CureInjurySurgicalCutAnimal.description>Cure surgical cut.</CureInjurySurgicalCutAnimal.description>
+    <CureInjurySurgicalCutAnimal.jobString>Curing surgical cut.</CureInjurySurgicalCutAnimal.jobString>
+
+    <CureInjuryScratchAnimal.label>cure scratch</CureInjuryScratchAnimal.label>
+    <CureInjuryScratchAnimal.description>Cure scratch.</CureInjuryScratchAnimal.description>
+    <CureInjuryScratchAnimal.jobString>Curing scratch.</CureInjuryScratchAnimal.jobString>
+
+    <CureInjuryBiteAnimal.label>cure bite</CureInjuryBiteAnimal.label>
+    <CureInjuryBiteAnimal.description>Cure bite.</CureInjuryBiteAnimal.description>
+    <CureInjuryBiteAnimal.jobString>Curing bite.</CureInjuryBiteAnimal.jobString>
+
+    <CureInjuryStabAnimal.label>cure stab</CureInjuryStabAnimal.label>
+    <CureInjuryStabAnimal.description>Cure stab.</CureInjuryStabAnimal.description>
+    <CureInjuryStabAnimal.jobString>Curing stab.</CureInjuryStabAnimal.jobString>
+
+    <CureInjuryGunshotAnimal.label>cure gunshot</CureInjuryGunshotAnimal.label>
+    <CureInjuryGunshotAnimal.description>Cure gunshot.</CureInjuryGunshotAnimal.description>
+    <CureInjuryGunshotAnimal.jobString>Curing gunshot.</CureInjuryGunshotAnimal.jobString>
+
+    <CureInjuryShreddedAnimal.label>cure shredded</CureInjuryShreddedAnimal.label>
+    <CureInjuryShreddedAnimal.description>Cure shredded.</CureInjuryShreddedAnimal.description>
+    <CureInjuryShreddedAnimal.jobString>Curing shredded.</CureInjuryShreddedAnimal.jobString>
+
+    <CureInjuryBruiseAnimal.label>cure bruise</CureInjuryBruiseAnimal.label>
+    <CureInjuryBruiseAnimal.description>Cure bruise.</CureInjuryBruiseAnimal.description>
+    <CureInjuryBruiseAnimal.jobString>Curing bruise.</CureInjuryBruiseAnimal.jobString>
+
+</LanguageData>
