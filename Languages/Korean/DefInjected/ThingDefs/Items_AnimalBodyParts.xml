@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <ProstheticTailAnimal.label>꼬리 보철물</ProstheticTailAnimal.label>
+    <ProstheticTailAnimal.description>꼬리 보철물입니다. 모든 동물에게 적합합니다.</ProstheticTailAnimal.description>
+
+    <SimpleProstheticLegAnimal.label>동물용 간단한 의족</SimpleProstheticLegAnimal.label>
+    <SimpleProstheticLegAnimal.description>동물용 의족입니다. 모든 동물에게 적합합니다.</SimpleProstheticLegAnimal.description>
+
+    <BionicLegAnimal.label>동물용 생체공학 다리</BionicLegAnimal.label>
+    <BionicLegAnimal.description>I동물용 생체공학 다리입니다. 모든 동물에게 적합합니다. </BionicLegAnimal.description>
+
+    <SimpleProstheticArmAnimal.label>동물용 간단한 의수</SimpleProstheticArmAnimal.label>
+    <SimpleProstheticArmAnimal.description>동물용 의수입니다. 원숭이와 거대늘보에게 적합합니다.</SimpleProstheticArmAnimal.description>
+
+    <BionicArmAnimal.label>동물용 생체공학 팔</BionicArmAnimal.label>
+    <BionicArmAnimal.description>동물용 생체공학 팔입니다. 원숭이와 거대늘보에게 적합합니다.</BionicArmAnimal.description>
+
+    <NoseAnimalSimple.label>동물용 코 보철물</NoseAnimalSimple.label>
+    <NoseAnimalSimple.description>동물용 코 보철물입니다. 조류와 곤충을 제외한 모든 동물에게 적합합니다.</NoseAnimalSimple.description>
+
+    <BionicEyeAnimal.label>동물용 생체공학 눈</BionicEyeAnimal.label>
+    <BionicEyeAnimal.description>동물용 생체공학 눈입니다. 모든 동물에게 적합합니다. </BionicEyeAnimal.description>
+
+    <EarAnimalSimple.label>동물용 귀 보철물</EarAnimalSimple.label>
+    <EarAnimalSimple.description>동물용 귀 보철물입니다. 모든 동물에게 적합합니다.</EarAnimalSimple.description>
+
+    <EarAnimalBionic.label>동물용 생체공학 귀</EarAnimalBionic.label>
+    <EarAnimalBionic.description>Improved bionic ear implant for animals. 모든 동물에게 적합합니다.</EarAnimalBionic.description>
+
+    <JawAnimalSimple.label>동물용 턱 보철물</JawAnimalSimple.label>
+    <JawAnimalSimple.description>동물용 생체공학 귀입니다. 모든 동물에게 적합합니다.</JawAnimalSimple.description>
+
+    <JawAnimalBionic.label>동물용 생체공학 턱</JawAnimalBionic.label>
+    <JawAnimalBionic.description>동물용 생체공학 턱입니다. 모든 동물에게 적합합니다.</JawAnimalBionic.description>
+
+    <SpineAnimalSimple.label>동물용 척추 보철물</SpineAnimalSimple.label>
+    <SpineAnimalSimple.description>동물용 척추 보철물입니다. 모든 동물에게 적합합니다.</SpineAnimalSimple.description>
+
+    <SpineAnimalBionic.label>동물용 생체공학 척추</SpineAnimalBionic.label>
+    <SpineAnimalBionic.description>동물용 생체공학 척추입니다. 모든 동물에게 적합합니다.</SpineAnimalBionic.description>
+
+    <AnimalBrainStimulator.label>동물용 인공지능 칩</AnimalBrainStimulator.label>
+    <AnimalBrainStimulator.description>동물용 인공지능 칩입니다. 의식을 향상시킵니다. 모든 동물에게 적합합니다.</AnimalBrainStimulator.description>
+
+    <BionicAnimalHeart.label>동물용 인공 심장</BionicAnimalHeart.label>
+    <BionicAnimalHeart.description>동물용 인공 심장입니다. 모든 동물에게 적합합니다.</BionicAnimalHeart.description>
+
+    <BionicAnimalLung.label>동물용 인공 폐</BionicAnimalLung.label>
+    <BionicAnimalLung.description>동물용 인공 폐입니다. 모든 동물에게 적합합니다.</BionicAnimalLung.description>
+
+    <BionicAnimalLiver.label>동물용 인공 간</BionicAnimalLiver.label>
+    <BionicAnimalLiver.description>동물용 인공 간입니다. 모든 동물에게 적합합니다.</BionicAnimalLiver.description>
+
+    <BionicAnimalKidney.label>동물용 인공 신장</BionicAnimalKidney.label>
+    <BionicAnimalKidney.description>동물용 인공 신장입니다. 모든 동물에게 적합합니다.</BionicAnimalKidney.description>
+
+    <BionicAnimalStomach.label>동물용 인공 위</BionicAnimalStomach.label>
+    <BionicAnimalStomach.description>동물용 인공 위입니다. 모든 동물에게 적합합니다.</BionicAnimalStomach.description>
+
+</LanguageData>
