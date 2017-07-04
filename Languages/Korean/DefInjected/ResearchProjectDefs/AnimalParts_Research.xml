@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <SimpleAnimalProsthetics.label>동물용 보철물</SimpleAnimalProsthetics.label>
+    <SimpleAnimalProsthetics.description>동물용 보철물을 제작하는 방법을 배웁니다.</SimpleAnimalProsthetics.description>
+
+    <AnimalBionics.label>동물용 생체공학품</AnimalBionics.label>
+    <AnimalBionics.description>동물용 생체공학품을 제작하는 방법을 배웁니다.</AnimalBionics.description>
+
+    <AnimalHeal.label>동물 치료</AnimalHeal.label>
+    <AnimalHeal.description>동물들의 흉터를 제거하는법을 배웁니다.</AnimalHeal.description>
+
+</LanguageData>

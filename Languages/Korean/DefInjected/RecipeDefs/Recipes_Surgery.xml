@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <InstallSimpleProstheticTailAnimal.label>install simple animal prosthetic tail</InstallSimpleProstheticTailAnimal.label>
+    <InstallSimpleProstheticTailAnimal.description>Installs simple prosthetic tail. Requires a min skill in medicine of 4.</InstallSimpleProstheticTailAnimal.description>
+    <InstallSimpleProstheticTailAnimal.jobString>Installing simple prostethic tail.</InstallSimpleProstheticTailAnimal.jobString>
+
+    <InstallScytherBladeAnimal.label>install scyther blade</InstallScytherBladeAnimal.label>
+    <InstallScytherBladeAnimal.description>Installs scyther blade.</InstallScytherBladeAnimal.description>
+    <InstallScytherBladeAnimal.jobString>Installing scyther blade.</InstallScytherBladeAnimal.jobString>
+
+    <InstallPowerClawAnimal.label>install power claw</InstallPowerClawAnimal.label>
+    <InstallPowerClawAnimal.description>Installs power claw.</InstallPowerClawAnimal.description>
+    <InstallPowerClawAnimal.jobString>Installing power claw.</InstallPowerClawAnimal.jobString>
+
+    <InstallPegLegAnimal.label>install animal peg leg</InstallPegLegAnimal.label>
+    <InstallPegLegAnimal.description>Installs animal peg leg.</InstallPegLegAnimal.description>
+    <InstallPegLegAnimal.jobString>Installing peg leg.</InstallPegLegAnimal.jobString>
+
+    <InstallSimpleProstheticLegAnimal.label>install simple prosthetic animal leg</InstallSimpleProstheticLegAnimal.label>
+    <InstallSimpleProstheticLegAnimal.description>Installs simple prosthetic animal leg. Requires min skill in medicine of 4.</InstallSimpleProstheticLegAnimal.description>
+    <InstallSimpleProstheticLegAnimal.jobString>Installing simple prostethic animal leg.</InstallSimpleProstheticLegAnimal.jobString>
+
+    <InstallBionicLegAnimal.label>install bionic animal leg</InstallBionicLegAnimal.label>
+    <InstallBionicLegAnimal.description>Installs bionic animal leg. Requires min skill in medicine of 8.</InstallBionicLegAnimal.description>
+    <InstallBionicLegAnimal.jobString>Installing bionic leg.</InstallBionicLegAnimal.jobString>
+
+    <InstallSimpleProstheticArmAnimal.label>install simple animal prosthetic arm</InstallSimpleProstheticArmAnimal.label>
+    <InstallSimpleProstheticArmAnimal.description>Installs simple prosthetic animal arm. Requires a min skill in medicine of 4.</InstallSimpleProstheticArmAnimal.description>
+    <InstallSimpleProstheticArmAnimal.jobString>Installing simple prostethic animal arm.</InstallSimpleProstheticArmAnimal.jobString>
+
+    <InstallBionicArmAnimal.label>install animal bionic arm</InstallBionicArmAnimal.label>
+    <InstallBionicArmAnimal.description>Installs animal bionic arm. Requires a min skill in medicine of 8.</InstallBionicArmAnimal.description>
+    <InstallBionicArmAnimal.jobString>Installing bionic animal arm.</InstallBionicArmAnimal.jobString>
+
+    <InstallNoseAnimalSimple.label>install simple animal nose</InstallNoseAnimalSimple.label>
+    <InstallNoseAnimalSimple.description>Installs a simple animal animal nose. Requires a min skill in medicine of 4.</InstallNoseAnimalSimple.description>
+    <InstallNoseAnimalSimple.jobString>Installing simple animal nose.</InstallNoseAnimalSimple.jobString>
+
+    <InstallBionicEyeAnimal.label>install bionic animal eye</InstallBionicEyeAnimal.label>
+    <InstallBionicEyeAnimal.description>Installs bionic animal eye. Requires a min skill in medicine of 8.</InstallBionicEyeAnimal.description>
+    <InstallBionicEyeAnimal.jobString>Installing bionic animal eye.</InstallBionicEyeAnimal.jobString>
+
+    <InstallEarAnimalSimple.label>install simple animal ear implant</InstallEarAnimalSimple.label>
+    <InstallEarAnimalSimple.description>Installs a simple animal ear implant. Requires a min skill in medicine of 4.</InstallEarAnimalSimple.description>
+    <InstallEarAnimalSimple.jobString>Installing simple animal ear implant.</InstallEarAnimalSimple.jobString>
+
+    <InstallEarAnimalBionic.label>install bionic animal ear implant</InstallEarAnimalBionic.label>
+    <InstallEarAnimalBionic.description>Installs an improved bionic animal ear implant. Requires a min skill in medicine of 8.</InstallEarAnimalBionic.description>
+    <InstallEarAnimalBionic.jobString>Installing bionic animal ear implant.</InstallEarAnimalBionic.jobString>
+
+    <InstallJawAnimalSimple.label>install simple animal jaw</InstallJawAnimalSimple.label>
+    <InstallJawAnimalSimple.description>Installs a simple animal jaw. Requires a min skill in medicine of 4.</InstallJawAnimalSimple.description>
+    <InstallJawAnimalSimple.jobString>Installing simple animal jaw.</InstallJawAnimalSimple.jobString>
+
+    <InstallJawAnimalBionic.label>install bionic animal jaw</InstallJawAnimalBionic.label>
+    <InstallJawAnimalBionic.description>Installs an improved bionic animal jaw. Requires a min skill in medicine of 8.</InstallJawAnimalBionic.description>
+    <InstallJawAnimalBionic.jobString>Installing bionic animal jaw.</InstallJawAnimalBionic.jobString>
+
+    <InstallSpineAnimalSimple.label>install simple animal spine</InstallSpineAnimalSimple.label>
+    <InstallSpineAnimalSimple.description>Installs a simple animal spine. Requires a min skill in medicine of 6.</InstallSpineAnimalSimple.description>
+    <InstallSpineAnimalSimple.jobString>Installing simple animal spine.</InstallSpineAnimalSimple.jobString>
+
+    <InstallSpineAnimalBionic.label>install bionic animal spine</InstallSpineAnimalBionic.label>
+    <InstallSpineAnimalBionic.description>Installs an improved bionic animal spine. Requires a min skill in medicine of 10.</InstallSpineAnimalBionic.description>
+    <InstallSpineAnimalBionic.jobString>Installing bionic animal spine.</InstallSpineAnimalBionic.jobString>
+
+    <InstallAnimalBrainStimulator.label>install animal brain stimulator</InstallAnimalBrainStimulator.label>
+    <InstallAnimalBrainStimulator.description>Installs an animal brain stimulator. Requires a min skill in medicine of 10.</InstallAnimalBrainStimulator.description>
+    <InstallAnimalBrainStimulator.jobString>Installing animal brain stimulator.</InstallAnimalBrainStimulator.jobString>
+
+    <InstallBionicAnimalHeart.label>install bionic animal heart</InstallBionicAnimalHeart.label>
+    <InstallBionicAnimalHeart.description>Installs a bionic animal heart. Requires a min skill in medicine of 10.</InstallBionicAnimalHeart.description>
+    <InstallBionicAnimalHeart.jobString>Installing bionic animal heart.</InstallBionicAnimalHeart.jobString>
+
+    <InstallBionicAnimalLung.label>install bionic animal lung</InstallBionicAnimalLung.label>
+    <InstallBionicAnimalLung.description>Installs a bionic animal lung. Requires a min skill in medicine of 10.</InstallBionicAnimalLung.description>
+    <InstallBionicAnimalLung.jobString>Installing bionic animal lung.</InstallBionicAnimalLung.jobString>
+
+    <InstallBionicAnimalLiver.label>install bionic animal liver</InstallBionicAnimalLiver.label>
+    <InstallBionicAnimalLiver.description>Installs a bionic animal liver. Requires a min skill in medicine of 10.</InstallBionicAnimalLiver.description>
+    <InstallBionicAnimalLiver.jobString>Installing bionic animal liver.</InstallBionicAnimalLiver.jobString>
+
+    <InstallBionicAnimalKidney.label>install bionic animal kidney</InstallBionicAnimalKidney.label>
+    <InstallBionicAnimalKidney.description>Installs a bionic animal kidney Requires a min skill in medicine of 10.</InstallBionicAnimalKidney.description>
+    <InstallBionicAnimalKidney.jobString>Installing bionic animal kidney.</InstallBionicAnimalKidney.jobString>
+
+    <InstallBionicAnimalStomach.label>install bionic animal stomach</InstallBionicAnimalStomach.label>
+    <InstallBionicAnimalStomach.description>Installs a bionic animal stomach. Requires a min skill in medicine of 10.</InstallBionicAnimalStomach.description>
+    <InstallBionicAnimalStomach.jobString>Installing bionic animal stomach.</InstallBionicAnimalStomach.jobString>
+
+</LanguageData>

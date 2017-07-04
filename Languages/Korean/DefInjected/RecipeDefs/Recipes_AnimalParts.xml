@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MakeProstheticTailAnimal.label>꼬리 보철물 제작</MakeProstheticTailAnimal.label>
+    <MakeProstheticTailAnimal.description>꼬리 보철물을 제작합니다.</MakeProstheticTailAnimal.description>
+    <MakeProstheticTailAnimal.jobString>동물용 보철물 제작중.</MakeProstheticTailAnimal.jobString>
+
+    <MakeSimpleProstheticLegAnimal.label>동물용 간단한 의족 제작</MakeSimpleProstheticLegAnimal.label>
+    <MakeSimpleProstheticLegAnimal.description>동물용 의족을 제작합니다.</MakeSimpleProstheticLegAnimal.description>
+    <MakeSimpleProstheticLegAnimal.jobString>동물용 보철물 제작중.</MakeSimpleProstheticLegAnimal.jobString>
+
+    <MakeBionicLegAnimal.label>동물용 생체공학 다리 제작</MakeBionicLegAnimal.label>
+    <MakeBionicLegAnimal.description>동물용 생체공학 다리를 제작합니다.</MakeBionicLegAnimal.description>
+    <MakeBionicLegAnimal.jobString>동물용 생체공학품 제작중.</MakeBionicLegAnimal.jobString>
+
+    <MakeSimpleProstheticArmAnimal.label>동물용 간단한 의수 제작</MakeSimpleProstheticArmAnimal.label>
+    <MakeSimpleProstheticArmAnimal.description>동물용 의수를 제작합니다.</MakeSimpleProstheticArmAnimal.description>
+    <MakeSimpleProstheticArmAnimal.jobString>동물용 보철물 제작중.</MakeSimpleProstheticArmAnimal.jobString>
+	
+    <MakeBionicArmAnimal.label>동물용 생체공학 팔 제작</MakeBionicArmAnimal.label>
+    <MakeBionicArmAnimal.description>M동물용 생체공학 팔을 제작합니다.</MakeBionicArmAnimal.description>
+    <MakeBionicArmAnimal.jobString>동물용 생체공학품 제작중.MakeBionicArmAnimal.jobString>
+
+    <MakeNoseAnimalSimple.label>동물용 코 보철물 제작</MakeNoseAnimalSimple.label>
+    <MakeNoseAnimalSimple.description>동물용 코 보철물을 제작합니다.</MakeNoseAnimalSimple.description>
+    <MakeNoseAnimalSimple.jobString>동물용 보철물 제작중.</MakeNoseAnimalSimple.jobString>
+
+    <MakeBionicEyeAnimal.label>동물용 생체공학 눈 제작</MakeBionicEyeAnimal.label>
+    <MakeBionicEyeAnimal.description>동물용 생체공학 눈을 제작합니다.</MakeBionicEyeAnimal.description>
+    <MakeBionicEyeAnimal.jobString>동물용 생체공학품 제작중.</MakeBionicEyeAnimal.jobString>
+
+    <MakeEarAnimalSimple.label>동물용 귀 보철물 제작</MakeEarAnimalSimple.label>
+    <MakeEarAnimalSimple.description>동물용 귀 보철물을 제작합니다.</MakeEarAnimalSimple.description>
+    <MakeEarAnimalSimple.jobString>동물용 보철물 제작중.</MakeEarAnimalSimple.jobString>
+
+    <MakeEarAnimalBionic.label>동물용 생체공학 귀 제작</MakeEarAnimalBionic.label>
+    <MakeEarAnimalBionic.description>동물용 생체공학 귀를 제작합니다.</MakeEarAnimalBionic.description>
+    <MakeEarAnimalBionic.jobString>동물용 생체공학품 제작중.</MakeEarAnimalBionic.jobString>
+
+    <MakeJawAnimalSimple.label>동물용 턱 보철물 제작</MakeJawAnimalSimple.label>
+    <MakeJawAnimalSimple.description>동물용 턱 보철물을 제작합니다.</MakeJawAnimalSimple.description>
+    <MakeJawAnimalSimple.jobString>동물용 보철물 제작중.</MakeJawAnimalSimple.jobString>
+
+    <MakeJawAnimalBionic.label>동물용 생체공학 턱 제작</MakeJawAnimalBionic.label>
+    <MakeJawAnimalBionic.description>동물용 생체공학 턱을 제작합니다.</MakeJawAnimalBionic.description>
+    <MakeJawAnimalBionic.jobString>동물용 생체공학품 제작중.</MakeJawAnimalBionic.jobString>
+
+    <MakeSpineAnimalSimple.label>동물용 척추 보철물 제작</MakeSpineAnimalSimple.label>
+    <MakeSpineAnimalSimple.description>동물용 척추 보철물을 제작합니다.</MakeSpineAnimalSimple.description>
+    <MakeSpineAnimalSimple.jobString>동물용 보철물 제작중.</MakeSpineAnimalSimple.jobString>
+
+    <MakeSpineAnimalBionic.label>동물용 생체공학 척추 제작</MakeSpineAnimalBionic.label>
+    <MakeSpineAnimalBionic.description>동물용 생체공학 척추를 제작합니다.</MakeSpineAnimalBionic.description>
+    <MakeSpineAnimalBionic.jobString>동물용 생체공학품 제작중.</MakeSpineAnimalBionic.jobString>
+
+    <MakeAnimalBrainStimulator.label>동물용 인공지는 칩 제작</MakeAnimalBrainStimulator.label>
+    <MakeAnimalBrainStimulator.description>동물용 인공지능 칩을 제작합니다.</MakeAnimalBrainStimulator.description>
+    <MakeAnimalBrainStimulator.jobString>동물용 인공장기 제작중.</MakeAnimalBrainStimulator.jobString>
+
+    <MakeBionicAnimalHeart.label>동물용 인공 심장 제작</MakeBionicAnimalHeart.label>
+    <MakeBionicAnimalHeart.description>동물용 인공 심장을 제작합니다.</MakeBionicAnimalHeart.description>
+    <MakeBionicAnimalHeart.jobString>동물용 인공장기 제작중.</MakeBionicAnimalHeart.jobString>
+
+    <MakeBionicAnimalLung.label>동물용 인공 폐 제작</MakeBionicAnimalLung.label>
+    <MakeBionicAnimalLung.description>동물용 인공 폐를 제작합니다.</MakeBionicAnimalLung.description>
+    <MakeBionicAnimalLung.jobString>동물용 인공장기 제작중.</MakeBionicAnimalLung.jobString>
+
+    <MakeBionicAnimalLiver.label>동물용 인공 간 제작</MakeBionicAnimalLiver.label>
+    <MakeBionicAnimalLiver.description>동물용 인공 간을 제작합니다.</MakeBionicAnimalLiver.description>
+    <MakeBionicAnimalLiver.jobString>동물용 인공장기 제작중.</MakeBionicAnimalLiver.jobString>
+
+    <MakeBionicAnimalKidney.label>동물용 인공 신장 제작</MakeBionicAnimalKidney.label>
+    <MakeBionicAnimalKidney.description>동물용 인공 신장을 제작합니다.</MakeBionicAnimalKidney.description>
+    <MakeBionicAnimalKidney.jobString>동물용 인공장기 제작중.</MakeBionicAnimalKidney.jobString>
+
+    <MakeBionicAnimalStomach.label>동물용 인공 위 제작</MakeBionicAnimalStomach.label>
+    <MakeBionicAnimalStomach.description>동물용 인공 위를 제작합니다.</MakeBionicAnimalStomach.description>
+    <MakeBionicAnimalStomach.jobString>동물용 인공장기 제작중.</MakeBionicAnimalStomach.jobString>
+
+</LanguageData>
