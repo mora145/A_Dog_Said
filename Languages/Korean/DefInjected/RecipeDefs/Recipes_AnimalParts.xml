@@ -18,9 +18,9 @@
     <MakeSimpleProstheticArmAnimal.jobString>동물용 보철물 제작중.</MakeSimpleProstheticArmAnimal.jobString>
 	
     <MakeBionicArmAnimal.label>동물용 생체공학 팔 제작</MakeBionicArmAnimal.label>
-    <MakeBionicArmAnimal.description>M동물용 생체공학 팔을 제작합니다.</MakeBionicArmAnimal.description>
-    <MakeBionicArmAnimal.jobString>동물용 생체공학품 제작중.MakeBionicArmAnimal.jobString>
-
+    <MakeBionicArmAnimal.description>동물용 생체공학 팔을 제작합니다.</MakeBionicArmAnimal.description>
+    <MakeBionicArmAnimal.jobString>동물용 생체공학품 제작중.</MakeBionicArmAnimal.jobString>
+	
     <MakeNoseAnimalSimple.label>동물용 코 보철물 제작</MakeNoseAnimalSimple.label>
     <MakeNoseAnimalSimple.description>동물용 코 보철물을 제작합니다.</MakeNoseAnimalSimple.description>
     <MakeNoseAnimalSimple.jobString>동물용 보철물 제작중.</MakeNoseAnimalSimple.jobString>
@@ -53,8 +53,8 @@
     <MakeSpineAnimalBionic.description>동물용 생체공학 척추를 제작합니다.</MakeSpineAnimalBionic.description>
     <MakeSpineAnimalBionic.jobString>동물용 생체공학품 제작중.</MakeSpineAnimalBionic.jobString>
 
-    <MakeAnimalBrainStimulator.label>동물용 인공지는 칩 제작</MakeAnimalBrainStimulator.label>
-    <MakeAnimalBrainStimulator.description>동물용 인공지능 칩을 제작합니다.</MakeAnimalBrainStimulator.description>
+    <MakeAnimalBrainStimulator.label>동물용 뇌 증폭기 제작</MakeAnimalBrainStimulator.label>
+    <MakeAnimalBrainStimulator.description>동물용 뇌 증폭기를 제작합니다.</MakeAnimalBrainStimulator.description>
     <MakeAnimalBrainStimulator.jobString>동물용 인공장기 제작중.</MakeAnimalBrainStimulator.jobString>
 
     <MakeBionicAnimalHeart.label>동물용 인공 심장 제작</MakeBionicAnimalHeart.label>
