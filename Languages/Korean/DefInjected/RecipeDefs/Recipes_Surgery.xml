@@ -1,92 +1,92 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <InstallSimpleProstheticTailAnimal.label>install simple animal prosthetic tail</InstallSimpleProstheticTailAnimal.label>
-    <InstallSimpleProstheticTailAnimal.description>Installs simple prosthetic tail. Requires a min skill in medicine of 4.</InstallSimpleProstheticTailAnimal.description>
-    <InstallSimpleProstheticTailAnimal.jobString>Installing simple prostethic tail.</InstallSimpleProstheticTailAnimal.jobString>
+    <InstallSimpleProstheticTailAnimal.label>꼬리 보철물 설치</InstallSimpleProstheticTailAnimal.label>
+    <InstallSimpleProstheticTailAnimal.description>꼬리 보철물을 설치합니다. 의료레벨 4 이상을 요구합니다.</InstallSimpleProstheticTailAnimal.description>
+    <InstallSimpleProstheticTailAnimal.jobString>꼬리 보철물 설치중.</InstallSimpleProstheticTailAnimal.jobString>
 
-    <InstallScytherBladeAnimal.label>install scyther blade</InstallScytherBladeAnimal.label>
-    <InstallScytherBladeAnimal.description>Installs scyther blade.</InstallScytherBladeAnimal.description>
-    <InstallScytherBladeAnimal.jobString>Installing scyther blade.</InstallScytherBladeAnimal.jobString>
+    <InstallScytherBladeAnimal.label>사이더 칼 설치</InstallScytherBladeAnimal.label>
+    <InstallScytherBladeAnimal.description>사이더 칼을 설치합니다.</InstallScytherBladeAnimal.description>
+    <InstallScytherBladeAnimal.jobString>사이더 칼 설치중.</InstallScytherBladeAnimal.jobString>
 
-    <InstallPowerClawAnimal.label>install power claw</InstallPowerClawAnimal.label>
-    <InstallPowerClawAnimal.description>Installs power claw.</InstallPowerClawAnimal.description>
-    <InstallPowerClawAnimal.jobString>Installing power claw.</InstallPowerClawAnimal.jobString>
+    <InstallPowerClawAnimal.label>강화 발톱 설치</InstallPowerClawAnimal.label>
+    <InstallPowerClawAnimal.description>강화 발톱을 설치합니다.</InstallPowerClawAnimal.description>
+    <InstallPowerClawAnimal.jobString>강화 발톱 설치중.</InstallPowerClawAnimal.jobString>
 
-    <InstallPegLegAnimal.label>install animal peg leg</InstallPegLegAnimal.label>
-    <InstallPegLegAnimal.description>Installs animal peg leg.</InstallPegLegAnimal.description>
-    <InstallPegLegAnimal.jobString>Installing peg leg.</InstallPegLegAnimal.jobString>
+    <InstallPegLegAnimal.label>목발 설치</InstallPegLegAnimal.label>
+    <InstallPegLegAnimal.description>목발을 설치합니다.</InstallPegLegAnimal.description>
+    <InstallPegLegAnimal.jobString>목발 설치중.</InstallPegLegAnimal.jobString>
 
-    <InstallSimpleProstheticLegAnimal.label>install simple prosthetic animal leg</InstallSimpleProstheticLegAnimal.label>
-    <InstallSimpleProstheticLegAnimal.description>Installs simple prosthetic animal leg. Requires min skill in medicine of 4.</InstallSimpleProstheticLegAnimal.description>
-    <InstallSimpleProstheticLegAnimal.jobString>Installing simple prostethic animal leg.</InstallSimpleProstheticLegAnimal.jobString>
+    <InstallSimpleProstheticLegAnimal.label>동물용 간단한 의족 설치</InstallSimpleProstheticLegAnimal.label>
+    <InstallSimpleProstheticLegAnimal.description>동물용 간단한 의족을 설치합니다. 의료레벨 4 이상을 요구합니다.</InstallSimpleProstheticLegAnimal.description>
+    <InstallSimpleProstheticLegAnimal.jobString>동물용 간단한 의족 설치중.</InstallSimpleProstheticLegAnimal.jobString>
 
-    <InstallBionicLegAnimal.label>install bionic animal leg</InstallBionicLegAnimal.label>
-    <InstallBionicLegAnimal.description>Installs bionic animal leg. Requires min skill in medicine of 8.</InstallBionicLegAnimal.description>
-    <InstallBionicLegAnimal.jobString>Installing bionic leg.</InstallBionicLegAnimal.jobString>
+    <InstallBionicLegAnimal.label>동물용 생제공학 다리 설치</InstallBionicLegAnimal.label>
+    <InstallBionicLegAnimal.description>동물용 생제공학 다리를 설치합니다. Requires min skill in medicine of 8.</InstallBionicLegAnimal.description>
+    <InstallBionicLegAnimal.jobString>동물용 생제공학 다리 설치중.</InstallBionicLegAnimal.jobString>
 
-    <InstallSimpleProstheticArmAnimal.label>install simple animal prosthetic arm</InstallSimpleProstheticArmAnimal.label>
-    <InstallSimpleProstheticArmAnimal.description>Installs simple prosthetic animal arm. Requires a min skill in medicine of 4.</InstallSimpleProstheticArmAnimal.description>
-    <InstallSimpleProstheticArmAnimal.jobString>Installing simple prostethic animal arm.</InstallSimpleProstheticArmAnimal.jobString>
+    <InstallSimpleProstheticArmAnimal.label>동물용 간단한 의수 설치</InstallSimpleProstheticArmAnimal.label>
+    <InstallSimpleProstheticArmAnimal.description>동물용 간단한 의수를 설치합니다. 의료레벨 4 이상을 요구합니다.</InstallSimpleProstheticArmAnimal.description>
+    <InstallSimpleProstheticArmAnimal.jobString>동물용 간단한 의수 설치중.</InstallSimpleProstheticArmAnimal.jobString>
 
-    <InstallBionicArmAnimal.label>install animal bionic arm</InstallBionicArmAnimal.label>
-    <InstallBionicArmAnimal.description>Installs animal bionic arm. Requires a min skill in medicine of 8.</InstallBionicArmAnimal.description>
-    <InstallBionicArmAnimal.jobString>Installing bionic animal arm.</InstallBionicArmAnimal.jobString>
+    <InstallBionicArmAnimal.label>동물용 생체공학 팔 설치</InstallBionicArmAnimal.label>
+    <InstallBionicArmAnimal.description>동물용 생체공학 팔을 설치합니다. 의료레벨 8 이상을 요구합니다.</InstallBionicArmAnimal.description>
+    <InstallBionicArmAnimal.jobString>동물용 생체공학 팔 설치중.</InstallBionicArmAnimal.jobString>
 
-    <InstallNoseAnimalSimple.label>install simple animal nose</InstallNoseAnimalSimple.label>
-    <InstallNoseAnimalSimple.description>Installs a simple animal animal nose. Requires a min skill in medicine of 4.</InstallNoseAnimalSimple.description>
-    <InstallNoseAnimalSimple.jobString>Installing simple animal nose.</InstallNoseAnimalSimple.jobString>
+    <InstallNoseAnimalSimple.label>동물용 코 보철물 설치</InstallNoseAnimalSimple.label>
+    <InstallNoseAnimalSimple.description>동물용 코 보철물을 설치합니다. 의료레벨 4 이상을 요구합니다.</InstallNoseAnimalSimple.description>
+    <InstallNoseAnimalSimple.jobString>동물용 코 보철물 설치중.</InstallNoseAnimalSimple.jobString>
 
-    <InstallBionicEyeAnimal.label>install bionic animal eye</InstallBionicEyeAnimal.label>
-    <InstallBionicEyeAnimal.description>Installs bionic animal eye. Requires a min skill in medicine of 8.</InstallBionicEyeAnimal.description>
-    <InstallBionicEyeAnimal.jobString>Installing bionic animal eye.</InstallBionicEyeAnimal.jobString>
+    <InstallBionicEyeAnimal.label>동물용 생체공학 눈 설치</InstallBionicEyeAnimal.label>
+    <InstallBionicEyeAnimal.description>동물용 생체공학 눈을 설치합니다. 의료레벨 8 이상을 요구합니다.</InstallBionicEyeAnimal.description>
+    <InstallBionicEyeAnimal.jobString>동물용 생체공학 눈 설치중.</InstallBionicEyeAnimal.jobString>
 
-    <InstallEarAnimalSimple.label>install simple animal ear implant</InstallEarAnimalSimple.label>
-    <InstallEarAnimalSimple.description>Installs a simple animal ear implant. Requires a min skill in medicine of 4.</InstallEarAnimalSimple.description>
-    <InstallEarAnimalSimple.jobString>Installing simple animal ear implant.</InstallEarAnimalSimple.jobString>
+    <InstallEarAnimalSimple.label>동물용 귀 보철물 설치</InstallEarAnimalSimple.label>
+    <InstallEarAnimalSimple.description>동물용 귀 보철물을 설치합니다. 의료레벨 4 이상을 요구합니다.</InstallEarAnimalSimple.description>
+    <InstallEarAnimalSimple.jobString>동물용 귀 보철물 설치중.</InstallEarAnimalSimple.jobString>
 
-    <InstallEarAnimalBionic.label>install bionic animal ear implant</InstallEarAnimalBionic.label>
-    <InstallEarAnimalBionic.description>Installs an improved bionic animal ear implant. Requires a min skill in medicine of 8.</InstallEarAnimalBionic.description>
-    <InstallEarAnimalBionic.jobString>Installing bionic animal ear implant.</InstallEarAnimalBionic.jobString>
+    <InstallEarAnimalBionic.label>동물용 생체공학 귀 설치</InstallEarAnimalBionic.label>
+    <InstallEarAnimalBionic.description>동물용 생체공학 귀를 설치합니다. 의료레벨 8 이상을 요구합니다.</InstallEarAnimalBionic.description>
+    <InstallEarAnimalBionic.jobString>동물용 생체공학 귀 설치중.</InstallEarAnimalBionic.jobString>
 
-    <InstallJawAnimalSimple.label>install simple animal jaw</InstallJawAnimalSimple.label>
-    <InstallJawAnimalSimple.description>Installs a simple animal jaw. Requires a min skill in medicine of 4.</InstallJawAnimalSimple.description>
-    <InstallJawAnimalSimple.jobString>Installing simple animal jaw.</InstallJawAnimalSimple.jobString>
+    <InstallJawAnimalSimple.label>동물용 턱 보철물 설치</InstallJawAnimalSimple.label>
+    <InstallJawAnimalSimple.description>동물용 턱 보철물을 설치합니다. 의료레벨 4 이상을 요구합니다.</InstallJawAnimalSimple.description>
+    <InstallJawAnimalSimple.jobString>동물용 턱 보철물 설치중.</InstallJawAnimalSimple.jobString>
 
-    <InstallJawAnimalBionic.label>install bionic animal jaw</InstallJawAnimalBionic.label>
-    <InstallJawAnimalBionic.description>Installs an improved bionic animal jaw. Requires a min skill in medicine of 8.</InstallJawAnimalBionic.description>
-    <InstallJawAnimalBionic.jobString>Installing bionic animal jaw.</InstallJawAnimalBionic.jobString>
+    <InstallJawAnimalBionic.label>동물용 생체공학 턱 설치</InstallJawAnimalBionic.label>
+    <InstallJawAnimalBionic.description>동물용 생체공학 턱을 설치합니다. 의료레벨 8 이상을 요구합니다.</InstallJawAnimalBionic.description>
+    <InstallJawAnimalBionic.jobString>동물용 생체공학 턱 설치중.</InstallJawAnimalBionic.jobString>
 
-    <InstallSpineAnimalSimple.label>install simple animal spine</InstallSpineAnimalSimple.label>
-    <InstallSpineAnimalSimple.description>Installs a simple animal spine. Requires a min skill in medicine of 6.</InstallSpineAnimalSimple.description>
-    <InstallSpineAnimalSimple.jobString>Installing simple animal spine.</InstallSpineAnimalSimple.jobString>
+    <InstallSpineAnimalSimple.label>동물용 척추 보철물 설치</InstallSpineAnimalSimple.label>
+    <InstallSpineAnimalSimple.description>동물용 척추 보철물을 설치합니다. 의료레벨 6 이상을 요구합니다.</InstallSpineAnimalSimple.description>
+    <InstallSpineAnimalSimple.jobString>동물용 척추 보철물 설치중.</InstallSpineAnimalSimple.jobString>
 
-    <InstallSpineAnimalBionic.label>install bionic animal spine</InstallSpineAnimalBionic.label>
-    <InstallSpineAnimalBionic.description>Installs an improved bionic animal spine. Requires a min skill in medicine of 10.</InstallSpineAnimalBionic.description>
-    <InstallSpineAnimalBionic.jobString>Installing bionic animal spine.</InstallSpineAnimalBionic.jobString>
+    <InstallSpineAnimalBionic.label>동물용 생체공학 척추 설치</InstallSpineAnimalBionic.label>
+    <InstallSpineAnimalBionic.description>동물용 생체공학 척추를 설치합니다. 의료레벨 10 이상을 요구합니다.</InstallSpineAnimalBionic.description>
+    <InstallSpineAnimalBionic.jobString>동물용 생체공학 척추 설치중.</InstallSpineAnimalBionic.jobString>
 
-    <InstallAnimalBrainStimulator.label>install animal brain stimulator</InstallAnimalBrainStimulator.label>
-    <InstallAnimalBrainStimulator.description>Installs an animal brain stimulator. Requires a min skill in medicine of 10.</InstallAnimalBrainStimulator.description>
-    <InstallAnimalBrainStimulator.jobString>Installing animal brain stimulator.</InstallAnimalBrainStimulator.jobString>
+    <InstallAnimalBrainStimulator.label>동물용 뇌 증폭기 설치</InstallAnimalBrainStimulator.label>
+    <InstallAnimalBrainStimulator.description>동물용 뇌 증폭기를 설치합니다. 의료레벨 10 이상을 요구합니다.</InstallAnimalBrainStimulator.description>
+    <InstallAnimalBrainStimulator.jobString>동물용 뇌 증폭기 설치중.</InstallAnimalBrainStimulator.jobString>
 
-    <InstallBionicAnimalHeart.label>install bionic animal heart</InstallBionicAnimalHeart.label>
-    <InstallBionicAnimalHeart.description>Installs a bionic animal heart. Requires a min skill in medicine of 10.</InstallBionicAnimalHeart.description>
-    <InstallBionicAnimalHeart.jobString>Installing bionic animal heart.</InstallBionicAnimalHeart.jobString>
+    <InstallBionicAnimalHeart.label>동물용 인공 심장 설치</InstallBionicAnimalHeart.label>
+    <InstallBionicAnimalHeart.description>동물용 인공 심장을 설치합니다. 의료레벨 10 이상을 요구합니다.</InstallBionicAnimalHeart.description>
+    <InstallBionicAnimalHeart.jobString>동물용 인공 심장 설치중.</InstallBionicAnimalHeart.jobString>
 
-    <InstallBionicAnimalLung.label>install bionic animal lung</InstallBionicAnimalLung.label>
-    <InstallBionicAnimalLung.description>Installs a bionic animal lung. Requires a min skill in medicine of 10.</InstallBionicAnimalLung.description>
-    <InstallBionicAnimalLung.jobString>Installing bionic animal lung.</InstallBionicAnimalLung.jobString>
+    <InstallBionicAnimalLung.label>동물용 인공 폐 설치</InstallBionicAnimalLung.label>
+    <InstallBionicAnimalLung.description>동물용 인공 폐를 설치합니다. 의료레벨 10 이상을 요구합니다.</InstallBionicAnimalLung.description>
+    <InstallBionicAnimalLung.jobString>동물용 인공 폐 설치중.</InstallBionicAnimalLung.jobString>
 
-    <InstallBionicAnimalLiver.label>install bionic animal liver</InstallBionicAnimalLiver.label>
-    <InstallBionicAnimalLiver.description>Installs a bionic animal liver. Requires a min skill in medicine of 10.</InstallBionicAnimalLiver.description>
-    <InstallBionicAnimalLiver.jobString>Installing bionic animal liver.</InstallBionicAnimalLiver.jobString>
+    <InstallBionicAnimalLiver.label>동물용 인공 간 설치</InstallBionicAnimalLiver.label>
+    <InstallBionicAnimalLiver.description>동물용 인공 간을 설치합니다. 의료레벨 10 이상을 요구합니다.</InstallBionicAnimalLiver.description>
+    <InstallBionicAnimalLiver.jobString>동물용 인공 간 설치중.</InstallBionicAnimalLiver.jobString>
 
-    <InstallBionicAnimalKidney.label>install bionic animal kidney</InstallBionicAnimalKidney.label>
-    <InstallBionicAnimalKidney.description>Installs a bionic animal kidney Requires a min skill in medicine of 10.</InstallBionicAnimalKidney.description>
-    <InstallBionicAnimalKidney.jobString>Installing bionic animal kidney.</InstallBionicAnimalKidney.jobString>
+    <InstallBionicAnimalKidney.label>동물용 인공 신장 설치</InstallBionicAnimalKidney.label>
+    <InstallBionicAnimalKidney.description>동물용 인공 신장을 설치합니다. 의료레벨 10 이상을 요구합니다.</InstallBionicAnimalKidney.description>
+    <InstallBionicAnimalKidney.jobString>동물용 인공 신장 설치중.</InstallBionicAnimalKidney.jobString>
 
-    <InstallBionicAnimalStomach.label>install bionic animal stomach</InstallBionicAnimalStomach.label>
-    <InstallBionicAnimalStomach.description>Installs a bionic animal stomach. Requires a min skill in medicine of 10.</InstallBionicAnimalStomach.description>
-    <InstallBionicAnimalStomach.jobString>Installing bionic animal stomach.</InstallBionicAnimalStomach.jobString>
+    <InstallBionicAnimalStomach.label>동물용 인공 위 설치</InstallBionicAnimalStomach.label>
+    <InstallBionicAnimalStomach.description>동물용 인공 위를 설치합니다. 의료레벨 10 이상을 요구합니다.</InstallBionicAnimalStomach.description>
+    <InstallBionicAnimalStomach.jobString>동물용 인공 위 설치중.</InstallBionicAnimalStomach.jobString>
 
 </LanguageData>
