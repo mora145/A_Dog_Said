@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
 
-	<Operation Class="PatchOperationAdd"> <!-- "Inserting animal parts into trader stock generators" -->
-		<xpath>/Defs/TraderKindDef[defName = "Base_Outlander_Standard"]/stockGenerators</xpath>
+	<Operation Class="PatchOperationAdd"> <!-- "Inserting animal into trader stock generators" -->
+		<xpath>/DefPackage-TraderKindDef/TraderKindDef[defName = "Base_Outlander_Standard"]/stockGenerators</xpath>
 		<value>
 			<li Class="StockGenerator_Tag">
 				<tradeTag>BodyPartsAnimalArtificial</tradeTag>
@@ -19,8 +19,8 @@
 	</Operation>
 
 
-	<Operation Class="PatchOperationAdd"> <!-- "Inserting animal parts into trader stock generators" -->
-		<xpath>/Defs/TraderKindDef[defName = "Caravan_Outlander_Exotic"]/stockGenerators</xpath>
+	<Operation Class="PatchOperationAdd"> <!-- "Inserting animal into trader stock generators" -->
+		<xpath>/DefPackage-TraderKindDef/TraderKindDef[defName = "Caravan_Outlander_Exotic"]/stockGenerators</xpath>
 		<value>
 			<li Class="StockGenerator_Tag">
 				<tradeTag>BodyPartsAnimalArtificial</tradeTag>
@@ -37,8 +37,8 @@
 	</Operation>
 
 
-	<Operation Class="PatchOperationAdd"> <!-- "Inserting animal parts into trader stock generators" -->
-		<xpath>/Defs/TraderKindDef[defName = "Orbital_Exotic"]/stockGenerators</xpath>
+	<Operation Class="PatchOperationAdd"> <!-- "Inserting animal into trader stock generators" -->
+		<xpath>/DefPackage-TraderKindDef/TraderKindDef[defName = "Orbital_Exotic"]/stockGenerators</xpath>
 		<value>
 			<li Class="StockGenerator_Tag">
 				<tradeTag>BodyPartsAnimalArtificial</tradeTag>
@@ -55,8 +55,8 @@
 	</Operation>
 
 
-	<Operation Class="PatchOperationAdd"> <!-- "Inserting animal parts into trader stock generators" -->
-		<xpath>/Defs/TraderKindDef[defName = "Orbital_PirateMerchant"]/stockGenerators</xpath>
+	<Operation Class="PatchOperationAdd"> <!-- "Inserting animal into trader stock generators" -->
+		<xpath>/DefPackage-TraderKindDef/TraderKindDef[defName = "Orbital_PirateMerchant"]/stockGenerators</xpath>
 		<value>
 			<li Class="StockGenerator_Tag">
 				<tradeTag>BodyPartsAnimalArtificial</tradeTag>
