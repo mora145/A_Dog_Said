@@ -46,14 +46,10 @@
 		<defName>AnimalHeal</defName>
 		<label>Animal Healing</label>
 		<description>Learn to heal old wounds on animals</description>
-		<baseCost>700</baseCost>
+		<baseCost>1000</baseCost>
 		<techLevel>Industrial</techLevel>
 		<researchViewX>1</researchViewX>
 		<researchViewY>4</researchViewY>
-		<prerequisites>
-			<li>MicroelectronicsBasics</li>
-			<li>SimpleAnimalProsthetics</li>
-		</prerequisites>
 		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
 		<tab>ADogSaid</tab>
 	</ResearchProjectDef>
