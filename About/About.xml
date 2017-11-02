@@ -3,7 +3,7 @@
 	<name>A Dog Said...</name>
 	<author>spoonshortage</author>
 	<url>https://ludeon.com/forums/index.php?topic=24578.0</url>
-	<targetVersion>0.17.1557</targetVersion>
+	<targetVersion>0.18.1704</targetVersion>
 	<description>
 Adds prosthetics/bionics and surgeries for animals
 
@@ -26,6 +26,7 @@ A Dog Said Research Tab: Simple Animal Prosthetics, Animal Bionics, Animal Heali
 * simple/bionic animal legs. Fits all animals.
 * simple prosthetic tail. Fits all animals with tails.
 * simple prosthetic nose. Fits all animals with nose (not birds,insects)
+* power claws/scyther blades as leg/tail replacement
 
 All parts can be obtained from traders, except peglegs.
 All parts can be crafted at the animal prosthetics bench, after research of electricity and simple animal prosthetics
@@ -39,6 +40,7 @@ Simple parts need a skill from 4-6. Bionic parts need a skill form 8-10.
 
 Animal Healing of old wounds requires research, min med skill of 10 and 3 normal medicine. (make sure animals are set to receive it)
 
-DMG on bionic parts is non variable from animal to animal. A bionic leg on a Yorkie for example will do the same damage as a bionic leg on a bigger animal.
+DMG on bionic parts is non variable from animal to animal. A fully bionic Yorkie will do the same damage as a fully bionic Thrumbo.
+So make sure to not replace parts unneccissarily on higher damage animals.
 </description>
 </ModMetaData>
