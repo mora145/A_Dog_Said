@@ -7,6 +7,7 @@
 		<workSpeedStat>MedicalOperationSpeed</workSpeedStat>
 		<workSkill>Medicine</workSkill>
 		<workSkillLearnFactor>16</workSkillLearnFactor>
+		<surgerySuccessChanceFactor>1.5</surgerySuccessChanceFactor>
 	</RecipeDef>
 
 
@@ -277,6 +278,7 @@
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
 		<jobString>Installing peg leg.</jobString>
 		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>2</surgerySuccessChanceFactor>
 		<ingredients>
 			<li>
 				<filter>
@@ -1411,6 +1413,7 @@
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
 		<jobString>Installing animal brain stimulator.</jobString>
 		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor>
 		<skillRequirements>
 			<Medicine>10</Medicine>
 		</skillRequirements>
@@ -1506,6 +1509,7 @@
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
 		<jobString>Installing bionic animal heart.</jobString>
 		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor>
 		<skillRequirements>
 			<Medicine>10</Medicine>
 		</skillRequirements>
@@ -1601,6 +1605,7 @@
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
 		<jobString>Installing bionic animal lung.</jobString>
 		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor>
 		<skillRequirements>
 			<Medicine>10</Medicine>
 		</skillRequirements>
@@ -1697,6 +1702,7 @@
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
 		<jobString>Installing bionic animal liver.</jobString>
 		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor>
 		<skillRequirements>
 			<Medicine>10</Medicine>
 		</skillRequirements>
@@ -1792,6 +1798,7 @@
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
 		<jobString>Installing bionic animal kidney.</jobString>
 		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor>
 		<skillRequirements>
 			<Medicine>10</Medicine>
 		</skillRequirements>
@@ -1888,6 +1895,7 @@
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
 		<jobString>Installing bionic animal stomach.</jobString>
 		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor>
 		<skillRequirements>
 			<Medicine>10</Medicine>
 		</skillRequirements>
