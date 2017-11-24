@@ -7,6 +7,7 @@
 		<workSpeedStat>MedicalOperationSpeed</workSpeedStat>
 		<workSkill>Medicine</workSkill>
 		<workSkillLearnFactor>16</workSkillLearnFactor>
+		<surgerySuccessChanceFactor>1.5</surgerySuccessChanceFactor>
 	</RecipeDef>
 
 
